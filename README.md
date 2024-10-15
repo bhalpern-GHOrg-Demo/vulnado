@@ -31,4 +31,3 @@ The docker network created by `docker-compose` maps pretty well to a multi-tier 
 5
 6
 7
-8
